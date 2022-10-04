@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {"path": "force-app","default": true},
+      {"path": "leaderboard"},
+      {"path": "config"}
+    
+  ],
+  "name": "leaderboard",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "55.0"
+}

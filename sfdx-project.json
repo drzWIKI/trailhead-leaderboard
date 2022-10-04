@@ -6,6 +6,6 @@
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://priviaheatlh--trailhead.sandbox.my.salesforce.com",
   "sourceApiVersion": "54.0"
 }
